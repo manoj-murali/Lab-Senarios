@@ -1,4 +1,4 @@
-#Lab Senario : Deploy a Windows VM with Custom script extension
+#Lab Scenario : Deploy a Windows VM with Custom script extension
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmanoj-murali%2FLab-Senarios%2Fcustomscript-windows-troubleshooting%2Fazuredeploy.json)
 
